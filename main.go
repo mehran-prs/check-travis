@@ -5,7 +5,7 @@ import (
 	"runtime"
 )
 
-const a = 1 << 511
+const a = 1 << 580
 //const aa = a << 112
 //const b = a >> 121
 
