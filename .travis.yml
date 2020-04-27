@@ -4,6 +4,7 @@ env:
   - GIMME_GO_GIT_REMOTE=https://github.com/mehran-prs/go.git
 
 go:
+- 1.11
 - master
 
 script:
