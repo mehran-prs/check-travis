@@ -11,6 +11,6 @@ func main() {
 	// fmt.Println(a)
 	// fmt.Printf("%b\n", a)
 	// fmt.Println(b==2)
-	fmt.Println("Hello")
+	fmt.Printf("Hello from go:%s \n",runtime.Version())
 }
 
